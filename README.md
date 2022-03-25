@@ -1,1 +1,1 @@
-# peroxide_analysis
+Example data files and scripts to analyze peroxide concentrations in anemone well water or algal cultures. Link to protocol here. https://docs.google.com/document/d/1rvbxTB3wN_IxWJIfC1Frgllxvtb3wcZgwxiI2AlrUIA/edit?usp=sharing
